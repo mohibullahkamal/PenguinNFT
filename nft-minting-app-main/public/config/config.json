@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf913b0b2f2f813bbbf52be2c42b0cfe3be97bb9a",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xea8d4663a5424052684c42162356a591f1b0975b8e54006f26150b8c85174fa0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Penguin NFT",
+  "SYMBOL": "PENGUIN",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mos-penguin-collection",
+  "SHOW_BACKGROUND": true
+}
