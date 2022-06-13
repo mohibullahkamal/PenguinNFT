@@ -13,6 +13,7 @@
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mos-penguin-collection",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/moNFT",
+  
   "SHOW_BACKGROUND": true
 }
